@@ -1,1 +1,1 @@
-# codealpha-internship
+This repository contains Java projects completed during my CodeAlpha Java Programming Internship, focusing on applying core Java concepts through practical implementations. The projects included are a Hotel Reservation System and a Student Grade Calculator, developed using Java, Object-Oriented Programming (OOP), control statements, and input/output handling. I would like to thank CodeAlpha for providing this valuable internship opportunity.
